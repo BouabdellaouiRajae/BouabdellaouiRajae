@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @BouabdellaouiRajae
 - 👀 I’m interested in design
-- 🌱 I’m currently learning PHP
+- 🌱 HTML/CSS/JS/PHP
+- 🌱 I have been focusing lately on learning React
 - 📫 How to reach me throught linkedin : rajae bouabdellaoui
 
 <!---
